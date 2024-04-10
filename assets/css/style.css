@@ -519,19 +519,19 @@ img {
 }
 
 .skills__react {
-  width: 85%;
+  width: 60%;
 }
 
 .skills__php {
   width: 80%;
 }
 
-.skills__node {
+.skills__python_django {
   width: 70%;
 }
 
-.skills__firebase {
-  width: 90%;
+.skills__postgresql {
+  width: 60%;
 }
 
 .skills__python {
@@ -1255,7 +1255,8 @@ img {
   }
 
   .project__data {
-    padding-top: .8rem;
+    align-content: center;
+    padding-bottom: 1rem;
   }
 
   .footer__container {
@@ -1297,7 +1298,7 @@ img {
   }
 
   .services__container {
-    grid-template-columns: repeat(3, 238px);
+    grid-template-columns: repeat(4, 238px);
   }
 
   .portfolio__content {
